@@ -1,15 +1,25 @@
-# Data Analytics Portfolio
+# Data Analyst
 
 <!--
 
 **Fraan-Lab/Fraan-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p> Welcome to my Portfolio! Soy Franchesca una entusiasta del mundo de los datos </p>
+
+<p> Bienvenidos a mi Portafolio! Soy Franchesca una entusiasta del mundo de los datos. </p>
+
+## Skills
+  - [x] Data Cleaning
+  - [x] Data Analysis
+  - [x] Data Vizualization
+
+## Data Analytics Portfolio
+
 <p> In this section I will list the data analysis projects completed, describing in each the tools used. </p>
 
 <p> En esta sección enumeraré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
 
-## Contents
-  - [x] Data Cleaning, Analysis & Vizualization
+  - [x] [Power BI Portfolio](https://github.com/Fraan-Lab/Power-BI-Portfolio)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
