@@ -4,16 +4,19 @@
 
 **Fraan-Lab/Fraan-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-In this section I will list the data analysis projects completed, describing in each the tools used.
+<p> In this section I will list the data analysis projects completed, describing in each the tools used. </p>
+
+<p> En esta sección enumeraré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
 
 ## Contents
-  - [x] Data Cleaning, Analysis and Vizualization [[Kaggle.com](https://www.kaggle.com/)]
+  - [x] Data Cleaning, Analysis & Vizualization [[Kaggle.com](https://www.kaggle.com/)]
  #### Proyect 1: Bakery sales
 
-- The dataset belongs to a French bakery and provides the daily transaction details of customers from 2021-01-01 to 2022-09-30. 
-- Technology: Power BI 
+- The dataset belongs to a French bakery and provides the daily transaction details of customers from 2021-01-01 to 2022-09-30.
+- The **Dashboard** created with **Power BI** shows a comparative summary of daily sales between 2021 and 2022.
+- The final result shows firstly a table that filters the 7 products with more sales in monetary terms, on the other hand, it shows a graph that filters the 7 most sold products in terms of quantity.
 
-![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202021%20Bakery_sales.png))
+![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202021%20Bakery_sales.png)
 ![image](https://github.com/Fraan-Lab/Data_Analysis_Portfolio/blob/main/Power%20BI/Dashboard%202022%20Bakery_sales.png)
 
 
