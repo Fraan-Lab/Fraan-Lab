@@ -1,3 +1,5 @@
+![image](https://github.com/Fraan-Lab/Fraan-Lab/blob/main/Profile/github-header-Fraan-Lab.png)
+
 # Data Analyst
 
 <!--
