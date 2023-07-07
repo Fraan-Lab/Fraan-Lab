@@ -6,9 +6,9 @@
 
 **Fraan-Lab/Fraan-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p> Welcome to my Portfolio! Soy Franchesca una entusiasta del mundo de los datos </p>
+<p> Welcome to my Portfolio! I'm Franchesca, a data enthusiast with a Bachelor's degree in Management Sciences and specialized in data analysis. </p>
 
-<p> Bienvenidos a mi Portafolio! Soy Franchesca una entusiasta del mundo de los datos. </p>
+<p> Bienvenidos a mi Portafolio! Soy Franchesca, una entusiasta del mundo de los datos graduada de Ciencias de la Administración y especializada en el análisis de datos. </p>
 
 ## Skills
   - [x] Data Cleaning
