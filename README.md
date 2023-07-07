@@ -6,9 +6,9 @@
 
 **Fraan-Lab/Fraan-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p> Welcome to my Portfolio! I'm Franchesca, a data enthusiast with a Bachelor's degree in Management Sciences and specialized in data analysis. </p>
+<p> Welcome to my Portfolio! I'm Franchesca, a data enthusiast with a Bachelor's degree in Management Sciences and specialized in data analysis. I'm currently improving more and more my skills in Power BI, SQL and Python. </p>
 
-<p> Bienvenidos a mi Portafolio! Soy Franchesca, una entusiasta del mundo de los datos graduada de Ciencias de la Administración y especializada en el análisis de datos. </p>
+<p> Bienvenidos a mi Portafolio! Soy Franchesca, una entusiasta del mundo de los datos graduada de Ciencias de la Administración y especializada en el análisis de datos. Actualmente estoy mejorando cada vez más mis habilidades en Power BI, SQL y Python. </p>
 
 ## Skills
   - [x] Data Cleaning
@@ -20,7 +20,7 @@
 
 <p> In this section I will list the data analysis projects completed, describing in each the tools used. </p>
 
-<p> En esta sección enumeraré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
+<p> En esta sección enlistaré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
 
   - [x] [Power BI Portfolio](https://github.com/Fraan-Lab/Power-BI-Portfolio)
 
