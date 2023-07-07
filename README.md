@@ -12,6 +12,7 @@
 
 ## Skills
   - [x] Data Cleaning
+  - [x] Database modeling 
   - [x] Data Analysis
   - [x] Data Vizualization
 
