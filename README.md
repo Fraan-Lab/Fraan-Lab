@@ -22,10 +22,8 @@
 
 <p> En esta sección enlistaré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
 
-|  Repository Name | No. Projects  |
-| ---- | ---- |
-| [Power BI Projects](https://github.com/Fraan-Lab/Power-BI-Projects) | 1|
-| [Excel Projects](https://github.com/Fraan-Lab/Excel-Projects)| 1 |
+  - [x] [Power BI Projects](https://github.com/Fraan-Lab/Power-BI-Projects)
+  - [x] [Excel Projects](https://github.com/Fraan-Lab/Excel-Projects)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
