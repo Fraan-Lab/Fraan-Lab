@@ -12,8 +12,8 @@
 
 ## Skills
   - [x] Data Cleaning
-  - [x] Database modeling 
-  - [x] Data Analysis
+  - [x] Data Exploration
+  - [x] Database Modeling 
   - [x] Data Vizualization
 
 ## Data Analytics Portfolio
