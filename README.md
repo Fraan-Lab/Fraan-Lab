@@ -18,9 +18,9 @@
 
 ## Data Analytics Portfolio
 
-<p> In this section I will list the data analysis projects completed, describing in each the tools used. </p>
+<p> In this section I will list repositories that contain data analysis projects, describing in each of them the tools used. </p>
 
-<p> En esta sección enlistaré los proyectos de análisis de datos realizados, describiendo en cada uno de ellos las herramientas utilizadas. </p>
+<p> En esta sección enlistaré repositorios que contienen proyectos de análisis de datos, describiendo en cada uno de ellos las herramientas utilizadas. </p>
 
   - [x] [SQL Projects](https://github.com/Fraan-Lab/SQL-Projects)
   - [x] [Power BI Projects](https://github.com/Fraan-Lab/Power-BI-Projects)
